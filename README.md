@@ -1,2 +1,2 @@
 # Delphi
-My experements with puthon:)
+My experements with python:)
