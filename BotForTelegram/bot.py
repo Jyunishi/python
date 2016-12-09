@@ -40,6 +40,7 @@ mybot = bot(token)
 #mybot.sendmsg(chatid, 'Ddddd') 
 cmd = ''
 upd_respons = True
+#todo need to use webhooks 
 while cmd != '/end2':
   upd = getUpdates(lastoffset) 
   upd = json.loads(upd)
